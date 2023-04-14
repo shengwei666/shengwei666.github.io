@@ -5,8 +5,8 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-Download
-======
+### Download
+
 * [English CV [pdf]](https://shengwei666.github.io/files/cv/CV_English_Shengwei.pdf)
 * [Chinese CV [pdf]](https://shengwei666.github.io/files/cv/CV_Chinese_Shengwei.pdf)
 
