@@ -8,7 +8,14 @@ tags:
   - 学术
 ---
 
+---
+
+
+
+
+
 ## 1. 搜索技巧
+
 [Google scholar](https://scholar.google.com/)本质上还是一个搜索引擎，所以可以将搜索引擎常用的关键词、技巧加以应用
 1. site: 搜索指定的网站  
    如`"kernel method" site:nips.cc`，搜索`nips`包含`kernel method`全部论文
