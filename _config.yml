@@ -83,7 +83,7 @@ author:
   location         : "Nanjing, china"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "lishengwei98@163.com"
+  #email            : "lishengwei98@163.com"
   uri              :
   bitbucket        :
   codepen          :
