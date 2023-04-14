@@ -10,7 +10,7 @@ redirect_from:
 
 Shengwei Li is currently a master's student in the Biomedical Informatics Research Lab, Cancer Genomics Center, Big Data Research Institute, China Pharmaceutical University (CPU). <br>
 
-Previously, I received my Bachelor's degree from Jiangxi University of Chinese Medicine (JXUCM) as a member of the Pharmaceutical Preparation Class of 2016.
+Previously, he received his Bachelor's degree from Jiangxi University of Chinese Medicine (JXUCM) as a member of the Pharmaceutical Preparation Class of 2016.
 
 Research
 ======
