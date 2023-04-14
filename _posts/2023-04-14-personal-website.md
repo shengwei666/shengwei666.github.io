@@ -1,7 +1,7 @@
 ---
 title: '个人网站搭建'
 date: 2023-04-14
-permalink: /posts/2023-04-14-个人网站搭建.md
+permalink: /posts/2023/04/personal-website/
 tags:
   - 个人网站
   - Github Pages
