@@ -17,4 +17,4 @@ School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University<
 
 No. 639 Longmian Avenue, Jiangning District, Nanjing, Jiangsu Province, China<br>
 
-Email: lishengwei98[at]163.com
+Email: <lishengwei98@163.com>
