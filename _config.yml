@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Shengwei Li"
-  avatar           : "avatar.png" #shengwei.jpg
+  avatar           : "avatar.jpg" #shengwei.jpg
   bio              : "Master of Science in Bioinformatics, CPU, focus of research is cancer genomics"
   location         : "Nanjing, china"
   employer         :
